@@ -1,0 +1,28 @@
+name: rocko
+favicon: null
+layout_spectrum: 0.5393441715277731
+typography_spectrum: 0.28839047020301223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5650361489970237
+  lightness: 0.6235855743288994
+  saturation: 0.3196572700981051
+  rhythmicContrast: 0.5759569348301739
+purpose: []
